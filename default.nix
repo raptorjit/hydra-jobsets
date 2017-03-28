@@ -13,6 +13,7 @@
         "enableemail": false,
         "emailoverride": "",
         "keepnr": 3,
+        "emailresponsible": false,
         "inputs": {
           "benchmarkRunsNix": { "type": "expression", "value": 300 },
           "hardware":     { "type": "string", "value": "murren" },
